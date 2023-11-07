@@ -1,7 +1,6 @@
-# Master Thesis project
-## Augmenting Transformer models with eye-tracking attention masks
+# Augmenting Transformer models with eye-tracking attention masks
 
-This is the code for MSc Thesis project:
+This is the code for the project:
 
 - Running main.py with different parameters to test different models augmented by different eye-tracking attention masks
 - The data folder contained the datasets for both experiments along with eye-tracking data
